@@ -1,0 +1,34 @@
+
+
+
+
+.instagram{
+	width: 10px;
+	height: 10px;
+	transition: 1s;
+}
+
+.instagram:hover {
+	transform: scale(1.5);
+}
+
+
+.footer{
+
+	width: auto;
+	height: 60px;
+	background-color: black;
+}
+
+.footer h3 {
+	text-align: left;
+	text-decoration: none;
+	color: white;
+	
+
+}
+
+.footer h3:hover{
+	color: lightblue;
+}
+
